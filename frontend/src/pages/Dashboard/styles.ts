@@ -93,3 +93,8 @@ export const TableContainer = styled.section`
     }
   }
 `;
+
+export const Message = styled.div`
+  margin-top: 64px;
+  color: #363f5f;
+`;
