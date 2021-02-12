@@ -3,11 +3,11 @@
 </h1>
 
 <p align="center">
- <a href="#sobre">Sobre</a> |
- <a href="#requisitos">Requisitos</a> | 
- <a href="#tecnologias">Tecnologias</a> | 
- <a href="#como-executar">Como executar</a> | 
- <a href="#licenc-a">Licença</a> | 
+ <a href="#%EF%B8%8F-sobre">Sobre</a> |
+ <a href="#%EF%B8%8F-requisitos">Requisitos</a> | 
+ <a href="#%EF%B8%8F-tecnologias">Tecnologias</a> | 
+ <a href="#%EF%B8%8F-como-executar">Como executar</a> | 
+ <a href="#%EF%B8%8F-licença">Licença</a> | 
 </p>
 
 <h1 align="center">
