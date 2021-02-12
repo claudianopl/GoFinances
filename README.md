@@ -17,13 +17,11 @@
 ## 🚀 Sobre
 Este é um projeto desenvolvido para gerenciar as finanças do usuário, esse repositório contem um API REST em Node.js como back-end e uma aplicação em ReactJS como front-end utilizando TypeScript.
 
----
 ## 📚 Requisitos
 - Ter [**Git**](https://git-scm.com/) para clonar o projeto.
 - Ter [**Node.js**](https://nodejs.org/en/) instalado.
 - Ter [**Docker**](https://www.docker.com/) rodando um container PostgreSQL ou o [**PostgreSQL**](https://www.postgresql.org/) instalado em sua máquina e configurado.
 
----
 ## 🚀 Tecnologias
 ### Back-end
 - [Node.js](https://nodejs.org/en)
@@ -41,7 +39,6 @@ Este é um projeto desenvolvido para gerenciar as finanças do usuário, esse re
 - [ESLint](https://github.com/eslint/eslint)
 - [Prettier](https://github.com/prettier/prettier)
 
----
 ## ⚙️ Como executar
 
 ```bash
@@ -97,7 +94,6 @@ Este é um projeto desenvolvido para gerenciar as finanças do usuário, esse re
     $ yarn build
 ```
 
----
 ## 📝 Licença
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
